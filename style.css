@@ -10,13 +10,37 @@ body{
     background-color: #fdfdfd;
 }
 
+
+/*******Navbar*******/
+
+nav{
+    background-color: hsl(184, 100%, 22%);
+    font-size: 30px;
+    padding: 20px 30px;
+    border-bottom: 3px solid hsl(31, 77%, 52%);
+}
+
+nav a{
+    text-decoration: none;
+    color: hsla(0, 0%, 100%, 0.75);
+    font-family: 'Lexend Deca', sans-serif;
+    font-weight: 400;
+}
+
+nav a:hover{
+    color: hsl(31, 77%, 52%);
+}
+
+
+/*******Main*******/
+
 main{
     height: 65vh;
     width: 70%;
     margin: auto;
     display: flex;
     justify-content: center;
-    margin-top: 10%;
+    margin-top: 7%;
 }
 
 
