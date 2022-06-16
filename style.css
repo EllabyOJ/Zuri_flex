@@ -31,6 +31,10 @@ nav a:hover{
     color: hsl(31, 77%, 52%);
 }
 
+.border_right{
+    border-right: 3px solid #efd5d5;
+    padding-right: 10px;
+}
 
 /*******Main*******/
 

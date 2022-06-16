@@ -26,14 +26,18 @@ nav a:hover{
     color: hsl(31, 77%, 52%);
 }
 
+.border_right{
+    border-right: 3px solid #efd5d5;
+    padding-right: 10px;
+}
 
 .grid_container{
-    margin-top: 5%;
+    margin-top: 2%;
     display: grid;
-    grid-template-columns: 35% 20% 25%;
+    grid-template-columns: 40% 10% 30%;
     grid-template-rows: 20% 20% 20% 25%;
     height: 80vh;
-    gap: 10px;
+    gap: 15px;
     justify-content: center;
     align-content: center;
 }
