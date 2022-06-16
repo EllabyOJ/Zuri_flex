@@ -135,7 +135,7 @@ button{
 
 /********Media query*******/
 
-@media only screen and (max-width: 580px) {
+/* @media only screen and (max-width: 580px) {
     main{
         display: flex;
         flex-direction: column;
@@ -158,4 +158,4 @@ button{
     .cards{
         width: 100%;
     }
-}
+} */
